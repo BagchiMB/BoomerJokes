@@ -10,4 +10,9 @@ A light hearted app that gets you some boomer jokes
  3. You can upvote and downvote to keep the best jokes on the top of the list
  4. Interesting UI
 
- # Screenshots
+## Screenshot
+![image](/Screenshots/Screenshot67.png)
+![image](/Screenshots/Screenshot72.png)
+![image](/Screenshots/Screenshot69.png)
+![image](/Screenshots/Screenshot70.png)
+![image](/Screenshots/Screenshot71.png)
