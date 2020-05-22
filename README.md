@@ -14,5 +14,6 @@ A light hearted app that fetches you some boomer jokes
 ![image](/Screenshots/Screenshot67.png)
 ![image](/Screenshots/Screenshot69.png)
 ![image](/Screenshots/Screenshot70.png)
+![image](/Screenshots/Screenshot71.png)
 ![image](/Screenshots/Screenshot72.png)
 
