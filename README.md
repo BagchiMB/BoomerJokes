@@ -1,6 +1,6 @@
 # Boomer Jokes
 
-A light hearted app that fetches you some boomer jokes
+A light hearted app that gets you some boomer jokes using an API
 
  ### You can find this project hosted on [http://boomer-jokes.surge.sh/](http://boomer-jokes.surge.sh/)
 
